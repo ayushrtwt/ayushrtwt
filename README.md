@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Rawat</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushrtwt&label=Profile%20views&color=0e75b6&style=flat" alt="ayushrtwt" /> </p>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/art-reaction-3o7aCTKjSr80eDhM4w">
+<iframe src="https://giphy.com/embed/3o7aCTKjSr80eDhM4w" width="392" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-reaction-3o7aCTKjSr80eDhM4w">via GIPHY</a></p>
 
 <p align="left"> <a href="https://twitter.com/ayushrtwt" target="blank"><img src="https://img.shields.io/twitter/follow/ayushrtwt?logo=twitter&style=for-the-badge" alt="ayushrtwt" /></a> </p>
 
